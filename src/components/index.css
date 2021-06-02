@@ -1,0 +1,38 @@
+#container{
+    overflow: hidden;
+  }
+  
+  #content{
+    overflow :hidden;
+  }
+
+
+/* .details{
+  overflow: hidden;
+  height:250px;
+  width: 350px;
+  margin:20px;
+  padding:10px;
+  float:left;
+  box-shadow: 3px black;
+}
+.img img{
+  width: 200px;
+  height: 100px;
+} */
+
+img{
+  width: 250px;
+  height: 300px;
+}
+
+.details{
+  float: left;
+  width: 250px;
+  height: 475px;
+  padding: 2px;
+  margin: 40px;
+  
+  box-shadow: 2px 2px 2px grey;
+  font-weight: bold;
+}
